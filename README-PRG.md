@@ -4,7 +4,7 @@
 This command-line application was created to quickly generate a Profesional README file with all of the necessary information.
 
 ## Installation
-To install the Professional README Generator you must first clone this repository into your local machine, open in VS code, then in the terminal run npm install.
+To install the Professional README Generator you must first clone this repository into your local machine, open in VS code, then in the terminal run npm install, then npm index. 
 
 ## Usage
 In the terminal, run node index, then answer the following prompt:
@@ -15,8 +15,9 @@ In the terminal, run node index, then answer the following prompt:
 - Please provide credit for the contributers.
 - Please select a license for your project.
 - Please provide your GitHub username.
+![alt text](image.png)
 
-Tutorial Video link:
+Tutorial Video link: https://app.screencastify.com/v3/watch/zbKlX26KORhN3Vi8kxnu
 
 ## GitHub Information
 https://github.com/stephaniemnz/Professional-README-Generator
